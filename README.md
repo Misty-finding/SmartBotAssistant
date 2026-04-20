@@ -139,5 +139,19 @@ report_prompt_switch  ：动态切换提示词
 
 返回的类型实际上是langchain的message   也就是说模型回答了问题
 
+## 六、tools工具开发
+
+![image-20260420110624295](C:\Users\23148\AppData\Roaming\Typora\typora-user-images\image-20260420110624295.png)
+
+
+
+
+
+
+
+
+
+## 七、中间件和智能体Agent构建
+
 
 
