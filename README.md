@@ -145,7 +145,15 @@ report_prompt_switch  ：动态切换提示词
 
 
 
+引入rag服务  注册为工具 @tool
 
+![image-20260420113809750](C:\Users\23148\AppData\Roaming\Typora\typora-user-images\image-20260420113809750.png)
+
+
+
+获取时间天气等等  都注册为工具
+
+![image-20260420113828207](C:\Users\23148\AppData\Roaming\Typora\typora-user-images\image-20260420113828207.png)
 
 
 
