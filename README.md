@@ -205,3 +205,8 @@ report_prompt_switch  ：动态切换提示词
 agent如何实现的react的  就是如何思考  调用工具  再思考 ？
 
 ![](typora_images/image-20260420130522800.png)
+
+## 八、添加streamlit网页
+
+![image-20260420131033616](typora_images/image-20260420131033616.png)
+

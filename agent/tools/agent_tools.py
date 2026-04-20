@@ -22,13 +22,13 @@ def rag_summarize(query: str) -> str:
 
 @tool(description="获取指定城市的天气，以消息字符串的形式返回")
 def get_weather(city: str) -> str:
-    return f"城市{city}天气为晴天，气温26摄氏度，空气湿度50%，南风1级，AQI21，最近6小时降雨概率极低"
+    return f"城市{city}天气为阴天，气温15摄氏度，空气湿度58%，东北风2级，AQI21，最近6小时降雨概率极高"
 
 
 @tool(description="获取用户所在城市的名称，以纯字符串形式返回")
 def get_user_location() -> str:
-    return random.choice(["深圳", "合肥", "杭州"])
-
+    #return random.choice(["深圳", "合肥", "杭州"])
+    return "西安"
 
 @tool(description="获取用户的ID，以纯字符串形式返回")
 def get_user_id() -> str:
